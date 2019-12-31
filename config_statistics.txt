@@ -1,0 +1,15 @@
+##############################################################################
+# Config file: config_statistics
+##############################################################################
+# MUST RESTART SERVICE TO RELOAD CONFIG
+
+#where this program locates
+location = sh
+
+#listen port
+port = 20206
+
+#authentication
+#username and password
+username = admin
+password = ctshitoc
